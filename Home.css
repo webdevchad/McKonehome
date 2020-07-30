@@ -1,0 +1,61 @@
+
+body {
+    background-color: rgb(29, 27, 27);
+}
+#imgs {
+    position: relative;
+    min-height: 100vh;
+}
+.img {
+    float: left;
+    width: 33.33%;
+}
+#main0 {
+    text-align: center;
+}
+h1.main {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+b.main2 {
+    color: rgb(24, 105, 134);
+    text-align: center;
+    font-size: 70px;
+    font-display: bold;
+}
+h2 {
+    color: white;
+}
+#footer {
+    
+    text-align: center;
+}
+
+a.cf:link {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: white;
+    background-color:rgb(224, 24, 24);
+}
+a.cf:visited {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color:rgb(224, 24, 24);
+}
+a.cf:hover{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(28, 40, 206);
+    color: #fff;
+}

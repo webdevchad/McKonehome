@@ -1,0 +1,66 @@
+
+ body {
+   background-image: url("mckhouse.JPG");
+   background-repeat:no-repeat;
+   background-size: 1500px 1000px;
+ }
+  #footer {
+    font-size: 60px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+  }
+  b.ftext3, b.ftext2 {
+      text-transform: uppercase;
+  }
+  .container {
+      float: left;
+      color: white;
+      width: 450px;
+      height: 65%;
+      border-top-color: blue;
+      border-radius: 4px;
+      box-sizing: border-box;
+      border: 1px;
+      border-style: solid;
+      text-align: center;
+      background-color: black;
+
+
+  }
+  .container h1 {
+      color: rgb(226, 40, 40);
+  }
+.container1 {
+    float: left;
+    width: 450px;
+    color: white;
+      height: 65%;
+      border-top-color: blue;
+      border-radius: 4px;
+      box-sizing: border-box;
+      border: 1px;
+      border-style: solid;
+      text-align: center;
+      background-color: black;
+
+}
+.container2 {
+    float: right;
+    width: 450px;
+    color: white;
+      height: 65%;
+      border-top-color: blue;
+      border-radius: 4px;
+      box-sizing: border-box;
+      border: 1px;
+      border-style: solid;
+      text-align: center;
+      background-color: black;
+}
+  .container img {
+      width: 200px;
+      overflow: auto;
+  }

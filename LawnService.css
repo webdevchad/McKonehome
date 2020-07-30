@@ -1,0 +1,152 @@
+
+ body {
+   background-image: url("yard1.JPG");
+   background-repeat:no-repeat;
+   background-size: 1500px 900px;
+
+ }
+  #footer {
+    font-size: 60px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+  }
+
+  .container {
+      float: left;
+      color: white;
+      width: 33%;
+      height: 300px;
+      border-top-color: blue;
+      border-radius: 4px;
+      box-sizing: border-box;
+      border: 1px;
+      border-style: solid;
+      text-align: center;
+      background-color: black;
+
+
+  }
+  .container h1 {
+      color: rgb(226, 40, 40);
+  }
+.container1 {
+    float: right;
+    width: 33%;
+    color: white;
+      height: 300px;
+      border-top-color: blue;
+      border-radius: 2px;
+      box-sizing: border-box;
+      border: 1px;
+      border-style: solid;
+      text-align: center;
+      background-color: black;
+
+}
+.container2 {
+    float: left;
+    width: 33%;
+    text-align: center;
+    color: white;
+    height: 300px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    border: 1px;
+    border-style: solid;
+    background-color: black;
+}
+.c1 {
+    color: white;
+}
+  .container img {
+      width: 200px;
+      overflow: auto;
+  }
+.container1 img {
+    width: 200px;
+    overflow: auto;
+}
+.container2 img {
+    width: 200px;
+    overflow: auto;
+}
+.container p {
+    font-size: 75%;
+}
+#footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+a.cf:link {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: white;
+    float: left;
+    background-color:rgb(224, 24, 24);
+}
+a.cf:visited {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    float: left;
+    background-color:rgb(224, 24, 24);
+}
+a.cf:hover{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(28, 40, 206);
+    color: #fff;
+    float: left;
+}
+a.hort:link {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: white;
+}
+a.hort:visited {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color: green;
+}
+a.hort:hover{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: black;
+}
+a.CA:link {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: white;
+}
+a.CA:visited {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color:rgb(224, 24, 24);
+}
+a.CA:hover{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: black;
+}
